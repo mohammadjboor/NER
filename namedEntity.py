@@ -50,7 +50,6 @@ from sklearn.naive_bayes import BernoulliNB, GaussianNB, MultinomialNB
 
 print(train_tfmat)
 
-
 from sklearn.svm import LinearSVC
 
 lsvm=LinearSVC()
